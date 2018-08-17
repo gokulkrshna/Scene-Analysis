@@ -1,0 +1,5 @@
+The objects in the image:
+The Scene is classsified as either:
+jail:cell
+basement
+bow:window/indoor

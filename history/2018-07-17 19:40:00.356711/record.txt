@@ -1,0 +1,6 @@
+The objects in the image:
+train
+The Scene is classsified as either:
+jail:cell
+basement
+attic

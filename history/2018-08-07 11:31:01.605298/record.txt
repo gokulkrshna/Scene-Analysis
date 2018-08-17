@@ -1,0 +1,7 @@
+The objects in the image:
+person
+kite
+The Scene is classsified as either:
+beach
+coast
+ocean
